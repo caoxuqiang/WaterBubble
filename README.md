@@ -6,4 +6,3 @@
 
 
 ![效果预览](https://github.com/caoxuqiang/WaterBubble/raw/master/waterbubble.png)
->>>>>>> remotes/origin/master
